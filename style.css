@@ -81,8 +81,7 @@
 
 .donation {
   font-family: "Open Sans", sans-serif;
-  margin-top: 170px;
-  margin: 0 300px;
+  margin: 0 200px;
   text-align: center;
 }
 
@@ -100,6 +99,7 @@
   font-size: 25px;
   text-align: center;
   padding-bottom: 25px;
+  color: #707070;
 }
 
 .ammount {
@@ -133,7 +133,18 @@
 }
 .plan {
   margin-top: 170px;
+  text-align: center;
 }
+.description1 {
+  font-size: 25px;
+  text-align: center;
+  padding-bottom: 25px;
+  color: #707070;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 50px;
+}
+
 .container {
   display: flex;
   justify-content: space-around;
@@ -151,14 +162,14 @@
 }
 .plan1 {
   width: 360px;
-  height: 352px;
+  height: 300px;
   padding: 20px;
   background-color: rgba(79, 157, 166, 0.22);
   border-radius: 5px;
 }
 .plan2 {
   width: 360px;
-  height: 352px;
+  height: 300px;
   padding: 20px;
   margin-left: 20px;
   background-color: rgba(245, 211, 211, 0.64);
@@ -166,7 +177,7 @@
 }
 .plan3 {
   width: 360px;
-  height: 352px;
+  height: 300px;
   padding: 20px;
   margin-left: 20px;
   background-color: #f3f2cd;
@@ -182,6 +193,7 @@
   font-family: "Open Sans", sans-serif;
   margin-top: 170px;
   margin-left: 100px;
+  margin-right: 50px;
   padding: 40px;
   display: flex;
 }
@@ -231,7 +243,7 @@
   padding-bottom: 20px;
 }
 .update {
-  margin-top: 170px;
+  margin-top: 100px;
   padding: 20px;
   text-align: center;
 }
@@ -242,7 +254,7 @@
   text-align: center;
 }
 .mail {
-  margin-top: 100px;
+  margin-top: 50px;
   margin-right: 150px;
   margin-left: 150px;
   margin-bottom: 150px;
